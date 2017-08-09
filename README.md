@@ -1,14 +1,8 @@
-Here are some loose guidlines meant to give you an idea of what information we expect to find in each repository. Feel free to present your documentation in the most accessible/suitable order and style but you **must** include project data relating to the headings below, if relevant to your project. Also, include your final proposal in the top directory.
 
-[**A very good example**](https://github.com/Biological-Microsystems-Laboratory/micropipette)
-
-Consider using [GitHub for desktop](https://desktop.github.com/), the user interface and experience is so much better than the web version of Github, in my opinion.
-
-Lastly, follow [these](https://pages.github.com/) instructions if you want to style your github repository into a webpage like [so](https://biomakers.github.io/Example-repo/).
 
 ## Synopsis
 
-A summary of your project. This is the 150 word description from your proposal. Include your project banner and photos of team members.
+This project will aim to develop a low-cost colorimeter to detect colour changes in medical diagnostic assays, such as those for infectious diseases. The system will be intended for use in resource poor settings with the aim of improving diagnostic accuracy and sensitivity by removing user subjectivity from the interpretation of the test result. The system will be open-source and take a range of sample types to allow it to be easily adaptable to a large variety of colorimetric diagnostic assays.  
 
 ## Software
 
