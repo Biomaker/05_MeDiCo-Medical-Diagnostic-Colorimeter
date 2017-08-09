@@ -6,12 +6,10 @@
 This project will aim to develop a low-cost colorimeter to detect colour changes in medical diagnostic assays, such as those for infectious diseases. The system will be intended for use in resource poor settings with the aim of improving diagnostic accuracy and sensitivity by removing user subjectivity from the interpretation of the test result. The system will be open-source and take a range of sample types to allow it to be easily adaptable to a large variety of colorimetric diagnostic assays.  
 
 ## Team
+Andrew Stretton and Cassi Henderson      
+    
+<img src="images/AJS-Headshot-BiomakerChallenge.jpg" alt="image"/> <img src="images/HendersonCphoto.jpg" alt="image"/>
 
-<img src="images/AJS-Headshot-BiomakerChallenge.jpg" alt="image"/>
-Andrew Stretton
-
-<img src="images/HendersonCphoto.jpg" alt="image"/>
-Cassi Henderson
 
 ## Software
 
