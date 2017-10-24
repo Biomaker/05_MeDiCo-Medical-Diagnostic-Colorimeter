@@ -29,6 +29,9 @@ Assembly instructions:
 7. Connect LEDs in parallel each with a ~200 Ohm resistor to a 9V battery. Insert a potentiometer into the circuit (see diagram).
 <img src="images/circuit diagram.JPG" alt="image"/>
 8. Adjust light with potentiometer to appropriate intensity. 
+
+Assembled hardware (minus battery and Raspberry Pi/touchscreen connections)
+<img src="images/hardware-topdown.jpg" alt="image"/>
  
 
 ## Installation, Maintenance and Testing Guide
