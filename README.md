@@ -17,7 +17,18 @@ Explain functionality of software components (if any) as concisely as possible, 
 
 ## Hardware
 
-Explain how the hardware components (if any) of your project function as concisely as possible, including a short description of fabrication and assembly. Component suppliers and part numbers should be provided separately in a bill of materials, in a 'Hardware Folder'.
+This device makes use of a Raspberry Pi 3 and a Pi Camera to take and process the images. A 3D printed box with sample loading drawer and several LEDs control the illumination of the sample. 
+
+Assembly instructions:
+1. Laser cut top.dxf from 3mm black PMMA.
+2. Print box.stl and drawer.stl. We used PLA with 15% fill but adapt settings as needed for your printer.
+3. Attach drawer handle through screw hole in center of drawer.
+4. Fix 10 white LEDs in the 2 lines of holes in the top using Araldite Rapid. Allow to cure 24hr.
+5. Attach Pi camera to center square hole in top. Attache camera to RaspPi as specified by manufacturer. Attach RaspPi to screen as specified by manufacturer.
+6. Attach top to box using screws at each corner so Pi camera top is closest to the drawer opening.
+7. Connect LEDs in parallel each with a ~200 Ohm resistor to a 9V battery. Insert a potentiometer into the circuit (see diagram).
+8. Adjust light with potentiometer to appropriate intensity. 
+ 
 
 ## Installation, Maintenance and Testing Guide
 
