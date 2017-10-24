@@ -33,7 +33,8 @@ Assembly instructions:
 
 ## Installation, Maintenance and Testing Guide
 This system can be adapted for a variety of test formats. The case study presented here is for multi-color pH strips. Summarized process flow diagram:
-<img src="process-flow-diagram.JPG" alt="image"/>
+
+<img src="images/process-flow-diagram.JPG" alt="image"/>
 
 Instructions for use:
 1. Power Raspberry Pi and camera through power bank and LEDs via the battery. 
