@@ -27,6 +27,7 @@ Assembly instructions:
 5. Attach Pi camera to center square hole in top. Attache camera to RaspPi as specified by manufacturer. Attach RaspPi to screen as specified by manufacturer.
 6. Attach top to box using screws at each corner so Pi camera top is closest to the drawer opening.
 7. Connect LEDs in parallel each with a ~200 Ohm resistor to a 9V battery. Insert a potentiometer into the circuit (see diagram).
+<img src="images/circuit diagram.jpg" alt="image"/>
 8. Adjust light with potentiometer to appropriate intensity. 
  
 
