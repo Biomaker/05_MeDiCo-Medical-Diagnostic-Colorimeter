@@ -32,8 +32,13 @@ Assembly instructions:
  
 
 ## Installation, Maintenance and Testing Guide
+This system can be adapted for a variety of test formats. The case study presented here is for multi-color pH strips. Summarized process flow diagram:
+<img src="process-flow-diagram.JPG" alt="image"/>
 
-Provide instructions on usage, describe a test scheme and show how to run the tests with code and hardware configuration examples with some representative results.
+Instructions for use:
+1. Power Raspberry Pi and camera through power bank and LEDs via the battery. 
+2. Standards creation: Dip strip in solution of known pH. Load into drawer in sample slot. Run biomaker_camera.py to take image and process it to return LABspace color values for each color section. Save as part of analysis code as calibration value.
+3. Sample testing: Dip strip in solution of known pH.  Load into drawer in sample slot. Run biomaker_camera.py to take image and process it to return pH value. 
 
 ## License
 
