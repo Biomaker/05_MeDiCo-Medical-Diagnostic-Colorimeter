@@ -46,4 +46,4 @@ Instructions for use:
 
 ## License
 
-A short snippet describing the license (MIT, Apache, etc.) you have chosen to use
+This code is released under the MIT License (http://opensource.org/licenses/MIT).
